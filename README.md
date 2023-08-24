@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I am currently working on game development.<br>👯I am looking to collaborate on any virtual reality, augmented reality, and 3D game development.<br>🤝I am specifically looking for help with developing a 3D adventure-based game.<br>🌱I am also currently learning about website development backend and game development.
+🔭I am currently working to improve my coding skills by doing game development projects.<br>👯I am looking to collaborate on any virtual reality, augmented reality, and 3D game development.<br>🤝I am specifically looking for help with developing a 3D adventure-based game.<br>🌱I am also currently learning about website development backend and game development.
 
 
 ## 🌐 Socials:
