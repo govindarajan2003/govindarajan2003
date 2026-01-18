@@ -1,24 +1,43 @@
-# 💫 About Me:
-🔭I am currently working to improve my coding skills by doing game development projects.<br>👯I am looking to collaborate on any virtual reality, augmented reality, and 3D game development.<br>🤝I am specifically looking for help with developing a 3D adventure-based game.<br>🌱I am also currently learning about website development backend and game development.
+# Hi, I'm Govindarajan 👋
+### Software Engineer | Backend Systems & Application Security
 
+I am a Software Engineer focused on building high-performance backend systems and secure web applications. My engineering approach combines low-level system efficiency with modern web security practices.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/govindarajan-d-391633229) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=govindarajan2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=govindarajan2003&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindarajan2003&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=govindarajan2003&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=govindarajan2003&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+- 🔭 **Current Focus:** Architecting distributed systems in **Java 21** and building automated DAST pipelines using **Django**.
+- 💼 **Experience:** Background in developing and maintaining large-scale **Enterprise Systems** (AS/400), ensuring stability and reliability in legacy environments.
+- 🛠️ **Core Interests:** Web Application Development, Distributed Computing, Network Protocols, Application Security (AppSec), and System Design.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=govindarajan2003&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🚀 Featured Projects
+
+#### 1. **[BitTorrent Client (Java Core)](https://github.com/govindarajan2003/JTorrent_BEP0003_Client)**
+*A high-performance, distributed file-sharing system built from scratch.*
+* **Engineering:** Implemented the BitTorrent binary wire protocol (TCP/IP) manually without external networking libraries.
+* **Concurrency:** Utilized **Java 21 Virtual Threads** (Project Loom) to manage highly concurrent peer connections efficiently.
+* **Tech:** Java 21, NIO, SHA-1 Cryptography, Sockets.
+
+#### 2. **[HackIt (Security Platform)](https://github.com/govindarajan2003/HackIT)**
+*A Django-based vulnerability scanning platform.*
+* **Architecture:** Built a web dashboard that orchestrates **OWASP ZAP** scans to perform Dynamic Application Security Testing (DAST).
+* **Integration:** Automates vulnerability detection (SQLi, XSS) and generates actionable security reports for developers.
+* **Tech:** Python, Django, OWASP ZAP API, MySQL.
+
+---
+
+### 💻 Technical Arsenal
+
+**Languages & Frameworks:**
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Spring Boot](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+
+**Tools & Infrastructure:**
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-4B5C6B?style=for-the-badge&logo=owasp&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📊 GitHub Analytics
+![](https://github-readme-stats.vercel.app/api?username=govindarajan2003&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=govindarajan2003&theme=radical&hide_border=true&layout=compact)
+
+### 🔗 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/govindarajan-d-391633229)
